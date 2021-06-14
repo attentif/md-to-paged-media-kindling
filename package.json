@@ -1,6 +1,6 @@
 {
   "name": "mdprint",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "description": "Generates a PDF from one or more Markdown files; handles Nunjucks templating, default settings and more.",
   "bin": {
