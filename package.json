@@ -33,8 +33,8 @@
   "author": "Simon Goumaz <simon@attentif.ch>",
   "license": "MIT",
   "dependencies": {
-    "markdown-it": "^12.3.2",
-    "markdown-it-attrs": "^4.1.3",
+    "markdown-it": "^13.0.1",
+    "markdown-it-attrs": "^4.1.4",
     "markdown-it-bracketed-spans": "^1.0.1",
     "markdown-it-footnote": "^3.0.2",
     "markdown-it-ins": "^3.0.0",
@@ -42,9 +42,9 @@
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
     "nunjucks": "^3.2.2",
-    "prince": "^1.8.3",
+    "prince": "^1.9.7",
     "tmp-promise": "^3.0.2",
-    "yargs": "^17.3.1"
+    "yargs": "^17.5.1"
   },
   "devDependencies": {
     "coveralls": "^3.1.1",

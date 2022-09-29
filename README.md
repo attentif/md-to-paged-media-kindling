@@ -7,7 +7,7 @@ Generates a PDF from one or more Markdown files via [markdown-it](https://github
 
 ## Usage
 
-(Prerequisite: Node.js)
+(Prerequisites: Node.js, [Prince](https://www.princexml.com/))
 
 `mdprint --help`
 
