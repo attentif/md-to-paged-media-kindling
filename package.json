@@ -41,7 +41,7 @@
     "markdown-it-mark": "^3.0.1",
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
-    "nunjucks": "^3.2.3",
+    "nunjucks": "^3.2.4",
     "prince": "^1.9.9",
     "tmp-promise": "^3.0.3",
     "yargs": "^17.6.2"
